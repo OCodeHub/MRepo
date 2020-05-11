@@ -1,6 +1,6 @@
 # CodeHub - Repositório Principal
 
-![CodeHub](https://i.imgur.com/W8iyZm9.png)
+![CodeHub](https://i.imgur.com/rh24avm.png)
 
 
 
