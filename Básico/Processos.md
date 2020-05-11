@@ -10,4 +10,6 @@ Todo processo tem o seguinte:
 - Uma table privada de Handles pra eventos, arquivos, semaphores
 - Uma ou mais threads em execução, quando um processo é spawnado em user-mode ele geralmente começa com uma thread que vai executar a função main/WinMain, caso o processo não tenha nenhuma Thread ele é terminado pelo Kernel.
 
-![image-20200507154923923](C:\Users\mastermind\AppData\Roaming\Typora\typora-user-images\image-20200507154923923.png)
+![image-20200507154923923](https://i.imgur.com/LfKrljX.png)
+
+Créditos: Windows Kernel Programming, Melo - Tradução e resumo
