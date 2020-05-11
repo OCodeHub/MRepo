@@ -14,7 +14,7 @@ Primeiramente, bem vindos a este artigo de como preparar seu ambiente, geralment
 
 - [Cheat Engine](https://www.cheatengine.org/) - Você aí, esse é o cara do Game Hacking, acho bem difícil alguém falar de Game Hacking sem falar dessa ferramenta, ele é um canivete suíço do game hacking, tem debugger, tem como dissecar estruturas, tem como até mesmo fazer seu cheat dentro dele.
 
-  ![ce](https://lh3.googleusercontent.com/proxy/ZwRIvXcVqVA3TXM3uEyZ4xt4yHA1ohPUpbowFcn8dnjJsV3mg1RxEvR6cMU-QgqzP07K2TXQKHaTb_scPGACNhzjwoiucxm1Ms62mL9rEcWo49uGRDxXHqXBtCSL)
+  ![ce](https://lh3.googleusercontent.com/proxy/6PdtC9de3w4AjPE3rkLK9u0CF7z6bOrbiNvYyrY_X7dvBO57u-Vbw7qVUBNSl5ZpIxiB-VdFMg7CHMj-XnrqAtLq7J9yHfePlUw-WygOKbNdQ3tEDLIEzqrFM1e6)
 
 - [Reclass.NET](https://github.com/ReClassNET/ReClass.NET) - Esse é um programa excepcional também, você pode usar ele pra reconstruir estruturas do jogo, ele gera um código em C++ pra você. Você pode escolher entre os tipos de dados que contém a estrutura 
 
