@@ -1,8 +1,5 @@
 # CodeHub - Repositório Principal
 
-![CodeHub](https://i.imgur.com/W8iyZm9.png)
-
-
 
 ## Como começar em game hacking
 
